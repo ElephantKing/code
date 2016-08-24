@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1471996247 source:/home/hmp/code/Hello/main.cpp
+	<stdio.h>
+	<netinet/in.h>
+	<string.h>
+	<arpa/inet.h>
+	<time.h>
+	<unistd.h>
+
